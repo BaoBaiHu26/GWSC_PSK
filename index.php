@@ -49,17 +49,17 @@
                     <li class="nav-item"><a class="nav-link active" aria-current="page" href="">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
                     <li class="nav-item"><a class="nav-link" href="destinations.php">Destinations</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Become a Member</a></li>
+                    <!-- <li class="nav-item"><a class="nav-link" href="#">Become a Member</a></li> -->
                     <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
                     <li class="nav-item"><a class="nav-link" href="aboutus.php">About Us</a></li>
-                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+                    <!-- <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
                         <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="#">Action</a></li>
                         <li><a class="dropdown-item" href="#">Another action</a></li>
                         <li><hr class="dropdown-divider"></li>
                         <li><a class="dropdown-item" href="#">Something else here</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
             </div>
@@ -178,16 +178,16 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident sapiente voluptates excepturi, perferendis officia dolorem odio reiciendis architecto vel quis commodi? Omnis obcaecati beatae neque totam nostrum veniam ipsum dolorem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident sapiente voluptates excepturi, perferendis officia dolorem odio reiciendis architecto vel quis commodi? Omnis obcaecati beatae neque totam nostrum veniam ipsum dolorem.</p>
                         <div class="row">
                             <div class="col-md-2 ms-2">
-                            <a href="" class="text-decoration-none text-reset"><i class="bi bi-facebook"></i></a>
+                            <a href="https://www.facebook.com/" class="text-decoration-none text-reset"><i class="bi bi-facebook"></i></a>
                             </div>
                             <div class="col-md-2 ms-2">
-                            <a href="" class="text-decoration-none text-reset"><i class="bi bi-pinterest"></i></a>
+                            <a href="https://www.pinterest.com/" class="text-decoration-none text-reset"><i class="bi bi-pinterest"></i></a>
                             </div>
                             <div class="col-md-2 ms-2">
-                            <a href="" class="text-decoration-none text-reset"><i class="bi bi-twitter"></i></a>
+                            <a href="https://www.twitter.com/" class="text-decoration-none text-reset"><i class="bi bi-twitter"></i></a>
                             </div>
                             <div class="col-md-2 ms-2">
-                            <a href="" class="text-decoration-none text-reset"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.instagram.com/" class="text-decoration-none text-reset"><i class="bi bi-instagram"></i></a>
                             </div>
                         </div>
                         <h6 class="ms-2 mt-3">&#169; 2022-2023 GWSC.AllRightsReserved.</h6>
@@ -199,9 +199,9 @@
                     <!-- strong ma phyit -->
                     <h3 class="mt-3"><strong>Info Session</strong></h3> 
                     <ul class="list-unstyled">
-                        <li><a href="" class="text-decoration-none text-reset"><h6>Blog</h6></a></li>
-                        <li><a href="" class="text-decoration-none text-reset"><h6>Availability</h6></a></li>
-                        <li><a href="" class="text-decoration-none text-reset"><h6>Newsletter</h6></a></li>
+                        <li><a href="blog.php" class="text-decoration-none text-reset"><h6>Blog</h6></a></li>
+                        <li><a href="destinations.php" class="text-decoration-none text-reset"><h6>Availability</h6></a></li>
+                        <li><a href="#" class="text-decoration-none text-reset"><h6>Newsletter</h6></a></li>
                     </ul>  
                 </div>
             </div>
@@ -220,9 +220,9 @@
                 <div class="col-md-4">
                     <h3>More About Us</h3>
                     <ul class="list-unstyled">
-                        <li><a href="#" class="text-decoration-none text-reset">IOS App</a></li>
-                        <li><a href="#" class="text-decoration-none text-reset">Android App</a></li>
-                        <li><a href="#" class="text-decoration-none text-reset">Partners</a></li>
+                        <li><a href="https://www.apple.com/app-store/" class="text-decoration-none text-reset">IOS App</a></li>
+                        <li><a href="https://play.google.com/" class="text-decoration-none text-reset">Android App</a></li>
+                        <!-- <li><a href="#" class="text-decoration-none text-reset">Partners</a></li> -->
                     </ul>
                 </div>  
                 <div class="col-md-3">

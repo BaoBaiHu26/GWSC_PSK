@@ -24,7 +24,9 @@
                         <h5><i class="bi bi-star-fill"></i> 4.9/5 <h6>Highly Rated</h6></h5>
                         </div>
                         <div class="col-md-3 mt-1">
+                        <!-- ------------ -->
                         <h5><a href="reviews.php" class="text-reset">45 Reviews</a></h5>
+                        <!-- ------------ -->
                         </div>
                         <div class="col-md-3">
                         <h3>Switzerland</h3>

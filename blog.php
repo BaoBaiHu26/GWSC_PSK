@@ -25,7 +25,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Our Main Activities</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem at voluptates molestias neque aliquid nostrum non illum et eligendi sed error nesciunt alias ducimus earum iste, maxime eum impedit excepturi.</p>
-                        <a href="#" class="btn btn-primary">See more >> </a>
+                        <!-- <a href="#" class="btn btn-primary">See more >> </a> -->
                     </div>
                     <div class="card-footer text-muted">
                         2 days ago

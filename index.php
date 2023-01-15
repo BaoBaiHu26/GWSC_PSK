@@ -47,6 +47,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
                     <li class="nav-item"><a class="nav-link active" aria-current="page" href="">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="adventures.php">Adventures</a></li>
                     <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
                     <li class="nav-item"><a class="nav-link" href="destinations.php">Destinations</a></li>
                     <!-- <li class="nav-item"><a class="nav-link" href="#">Become a Member</a></li> -->
@@ -160,10 +161,10 @@
                     </div>
                     <div class="col-md-1"></div>
                     <div class="col-md-7">
-                        <h3>FAQ --- </h3>
-                        <a href="" class="text-decoration-none text-reset"><h4>What? >>>> </h4></a>
-                        <a href="" class="text-decoration-none text-reset"><h4>When? >>>> </h4></a>
-                        <a href="" class="text-decoration-none text-reset"><h4>How? >>>> </h4></a>
+                        <a href="faq.php" class="text-decoration-none text-reset"><h3>FAQ --- </h3></a>
+                        <a href="" class="text-decoration-none text-muted"><h4>Booking Details >>>> ------- </h4></a>
+                        <a href="" class="text-decoration-none text-muted"><h4>Cancellation >>>> ----------</h4></a>
+                        <a href="" class="text-decoration-none text-muted"><h4>COVID-19 >>>> --------------</h4></a>
                     </div>
                 </div>
             </div>
@@ -192,16 +193,17 @@
                         </div>
                         <h6 class="ms-2 mt-3">&#169; 2022-2023 GWSC.AllRightsReserved.</h6>
                 </div>
-                <div class="col-md-4 mt-4">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15276.075342106958!2d96.15539101907959!3d16.825421655655465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c1ecac632808fd%3A0x139668e8b99df9f3!2sThe%20District%20Coffee%20Lounge!5e0!3m2!1sen!2smm!4v1673339340239!5m2!1sen!2smm" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div class="col-md-4 mt-4 ms-4">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15276.075342106958!2d96.15539101907959!3d16.825421655655465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c1ecac632808fd%3A0x139668e8b99df9f3!2sThe%20District%20Coffee%20Lounge!5e0!3m2!1sen!2smm!4v1673339340239!5m2!1sen!2smm" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
-                <div class="col-md-4">
+                <!-- <div class="col-md-1"></div> -->
+                <div class="col-md-3">
                     <!-- strong ma phyit -->
                     <h3 class="mt-3"><strong>Info Session</strong></h3> 
                     <ul class="list-unstyled">
                         <li><a href="blog.php" class="text-decoration-none text-reset"><h6>Blog</h6></a></li>
                         <li><a href="destinations.php" class="text-decoration-none text-reset"><h6>Availability</h6></a></li>
-                        <li><a href="#" class="text-decoration-none text-reset"><h6>Newsletter</h6></a></li>
+                        <li><a href="newsletter.php" class="text-decoration-none text-reset"><h6>Newsletter</h6></a></li>
                     </ul>  
                 </div>
             </div>
@@ -214,25 +216,27 @@
                     <h5>Get Up-to-date Info</h5>
                     <input class="form-control  w-55" type="email" placeholder="Email Address" aria-label="Email">
                     <p class="mt-2">Subscribe to GWSC Newsletters.</p>
-                    <p>Read our <a href="#">Privacy and Policy.</a></p>
+                    <p>Read our <a href="ppolicy.php">Privacy and Policy.</a></p>
                     <button class="btn btn-outline-success" type="submit">Sign Up</button>
                 </div>  
-                <div class="col-md-4">
-                    <h3>More About Us</h3>
+                <div class="col-md-1"></div>
+                <div class="col-md-3">
+                    <h3 class="">More About Us</h3>
                     <ul class="list-unstyled">
                         <li><a href="https://www.apple.com/app-store/" class="text-decoration-none text-reset">IOS App</a></li>
                         <li><a href="https://play.google.com/" class="text-decoration-none text-reset">Android App</a></li>
                         <!-- <li><a href="#" class="text-decoration-none text-reset">Partners</a></li> -->
                     </ul>
                 </div>  
-                <div class="col-md-3">
+                <!-- <div class="col-md-1"></div> -->
+                <div class="col-md-2 ms-5">
                     <h3>Help</h3>
                         <ul class="list-unstyled">
-                            <li><a href="#" class="text-decoration-none text-reset">Help Center</a></li>
-                            <li><a href="#" class="text-decoration-none text-reset">FAQs</a></li>
-                            <li><a href="#" class="text-decoration-none text-reset">Privacy Policy</a></li>
-                            <li><a href="#" class="text-decoration-none text-reset">Cookie Policy</a></li>
-                            <li><a href="#" class="text-decoration-none text-reset">Term of Use</a></li>
+                            <!-- <li><a href="#" class="text-decoration-none text-reset">Help Center</a></li> -->
+                            <li><a href="faq.php" class="text-decoration-none text-reset">FAQs</a></li>
+                            <li><a href="ppolicy.php" class="text-decoration-none text-reset">Privacy Policy</a></li>
+                            <li><a href="cookiepolicy.php" class="text-decoration-none text-reset">Cookie Policy</a></li>
+                            <li><a href="tnc.php" class="text-decoration-none text-reset">Term of Use</a></li>
                         </ul>
                 </div>    
             </div>

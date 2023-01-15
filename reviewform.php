@@ -44,7 +44,7 @@
                         </div>
                     <br>
                         <div class="row">
-                            <label><input type="checkbox" name="remember">   I agree with Terms & Conditions of submission. <a href="#">Terms&Conditions</a></label>
+                            <label><input type="checkbox" name="remember">   I agree with Terms & Conditions of submission. <a href="tnc.php">Terms&Conditions</a></label>
                         </div>
                     <br>
                         <div class="row">
